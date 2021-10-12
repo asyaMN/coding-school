@@ -1,0 +1,57 @@
+#paragraph1{
+    color: sandybrown;
+}
+
+#p3{
+   
+    background-image: url(/img/photo-1519750783826-e2420f4d687f.jpg);
+    background-position: center;
+}
+
+h1{
+    color:sandybrown;
+}
+h2{
+    text-align: right;
+    font-family: 'Lato', sans-serif;
+}
+.p{
+    font-size: 20px;
+}
+#p2{
+font-family: 'Courier New', Courier, monospace; 
+text-align: right;  
+}
+.word{
+    background-color: hotpink;
+}
+#left{
+    text-align: left;
+}
+
+.white{
+    background-color: white;
+}
+
+#index4{
+    color: black;
+}
+
+.blue{
+    color: blue;
+}
+
+
+    img{
+        
+        position: fixed;
+        right: 0;
+    }
+
+    .b{
+        color: rgb(78, 78, 231);
+    }
+    .g{
+        color: rgb(62, 190, 62);
+    }
+    
